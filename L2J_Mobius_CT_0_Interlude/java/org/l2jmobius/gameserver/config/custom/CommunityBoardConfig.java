@@ -46,6 +46,7 @@ public class CommunityBoardConfig
 	public static boolean COMMUNITYBOARD_ENABLE_HEAL;
 	public static boolean COMMUNITYBOARD_ENABLE_DELEVEL;
 	public static int COMMUNITYBOARD_TELEPORT_PRICE;
+	public static int COMMUNITYBOARD_FREE_TELEPORT_MAX_LEVEL;
 	public static int COMMUNITYBOARD_BUFF_PRICE;
 	public static int COMMUNITYBOARD_HEAL_PRICE;
 	public static int COMMUNITYBOARD_DELEVEL_PRICE;
@@ -70,6 +71,7 @@ public class CommunityBoardConfig
 		COMMUNITYBOARD_ENABLE_HEAL = config.getBoolean("CommunityEnableHeal", true);
 		COMMUNITYBOARD_ENABLE_DELEVEL = config.getBoolean("CommunityEnableDelevel", false);
 		COMMUNITYBOARD_TELEPORT_PRICE = config.getInt("CommunityTeleportPrice", 0);
+		COMMUNITYBOARD_FREE_TELEPORT_MAX_LEVEL = config.getInt("CommunityFreeTeleportMaxLevel", 0);
 		COMMUNITYBOARD_BUFF_PRICE = config.getInt("CommunityBuffPrice", 0);
 		COMMUNITYBOARD_HEAL_PRICE = config.getInt("CommunityHealPrice", 0);
 		COMMUNITYBOARD_DELEVEL_PRICE = config.getInt("CommunityDelevelPrice", 0);
