@@ -37,3 +37,633 @@
         CHAMPION_EFFECT_TITLE = config.getBoolean("ChampionEffectTitle", true);
         CHAMPION_EFFECT_SIZE = config.getDouble("ChampionEffectSize", 1.2);
     }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
+
+    // Ranking System
+    public static boolean RANKING_SYSTEM_ENABLED;
+    public static int RANKING_UPDATE_INTERVAL;
+    public static int RANKING_TOP_LIMIT;
+    public static boolean RANKING_ANNOUNCE_TOP;
+
+    private static void loadRankingConfig(ConfigReader config)
+    {
+        RANKING_SYSTEM_ENABLED = config.getBoolean("RankingSystemEnabled", true);
+        RANKING_UPDATE_INTERVAL = config.getInt("RankingUpdateInterval", 5);
+        RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
+        RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
+    }
