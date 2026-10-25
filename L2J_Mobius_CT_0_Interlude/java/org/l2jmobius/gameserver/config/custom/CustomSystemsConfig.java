@@ -667,3 +667,39 @@
         RANKING_TOP_LIMIT = config.getInt("RankingTopLimit", 100);
         RANKING_ANNOUNCE_TOP = config.getBoolean("RankingAnnounceTop", true);
     }
+
+    // Character Management
+    public static boolean CHARACTER_MANAGEMENT_ENABLED;
+    public static boolean NICKNAME_CHANGE_ENABLED;
+    public static long NICKNAME_CHANGE_COST;
+    public static int NICKNAME_CHANGE_COOLDOWN;
+    public static int NICKNAME_CHANGE_MAX_PER_MONTH;
+    public static boolean GENDER_CHANGE_ENABLED;
+    public static long GENDER_CHANGE_COST;
+    public static int GENDER_CHANGE_COOLDOWN;
+    public static boolean CHARACTER_DELETION_ENABLED;
+    public static int CHARACTER_DELETION_DELAY_HOURS;
+    public static boolean UNSTUCK_ENABLED;
+    public static int UNSTUCK_COOLDOWN;
+    public static boolean CLASS_CHANGE_ENABLED;
+    public static long CLASS_CHANGE_COST;
+    public static int CLASS_CHANGE_COOLDOWN;
+
+    private static void loadCharacterConfig(ConfigReader config)
+    {
+        CHARACTER_MANAGEMENT_ENABLED = config.getBoolean("CharacterManagementEnabled", true);
+        NICKNAME_CHANGE_ENABLED = config.getBoolean("NicknameChangeEnabled", true);
+        NICKNAME_CHANGE_COST = config.getLong("NicknameChangeCost", 1000000);
+        NICKNAME_CHANGE_COOLDOWN = config.getInt("NicknameChangeCooldown", 7);
+        NICKNAME_CHANGE_MAX_PER_MONTH = config.getInt("NicknameChangeMaxPerMonth", 3);
+        GENDER_CHANGE_ENABLED = config.getBoolean("GenderChangeEnabled", true);
+        GENDER_CHANGE_COST = config.getLong("GenderChangeCost", 500000);
+        GENDER_CHANGE_COOLDOWN = config.getInt("GenderChangeCooldown", 30);
+        CHARACTER_DELETION_ENABLED = config.getBoolean("CharacterDeletionEnabled", true);
+        CHARACTER_DELETION_DELAY_HOURS = config.getInt("CharacterDeletionDelayHours", 24);
+        UNSTUCK_ENABLED = config.getBoolean("UnstuckEnabled", true);
+        UNSTUCK_COOLDOWN = config.getInt("UnstuckCooldown", 15);
+        CLASS_CHANGE_ENABLED = config.getBoolean("ClassChangeEnabled", true);
+        CLASS_CHANGE_COST = config.getLong("ClassChangeCost", 5000000);
+        CLASS_CHANGE_COOLDOWN = config.getInt("ClassChangeCooldown", 7);
+    }
