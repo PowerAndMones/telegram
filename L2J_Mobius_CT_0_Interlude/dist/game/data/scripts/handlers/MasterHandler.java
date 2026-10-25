@@ -72,6 +72,7 @@ import handlers.bypass.communityboard.HomepageBoard;
 import handlers.bypass.communityboard.MailBoard;
 import handlers.bypass.communityboard.MemoBoard;
 import handlers.bypass.communityboard.RegionBoard;
+import handlers.bypass.communityboard.custom.BufferSchemeHandler;
 import handlers.bypass.npc.Augment;
 import handlers.bypass.npc.Buy;
 import handlers.bypass.npc.BuyShadowItem;
@@ -463,6 +464,7 @@ public class MasterHandler
 			MailBoard.class,
 			MemoBoard.class,
 			RegionBoard.class,
+t		BufferSchemeHandler.class,
 		},
 		{
 			// Item Handlers
