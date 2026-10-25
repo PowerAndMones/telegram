@@ -703,3 +703,29 @@
         CLASS_CHANGE_COST = config.getLong("ClassChangeCost", 5000000);
         CLASS_CHANGE_COOLDOWN = config.getInt("ClassChangeCooldown", 7);
     }
+
+    // Clan Management
+    public static boolean CLAN_MANAGEMENT_ENABLED;
+    public static boolean CLAN_POINTS_SYSTEM_ENABLED;
+    public static long CLAN_POINTS_PER_PVP_KILL;
+    public static long CLAN_POINTS_PER_SIEGE_WIN;
+    public static long CLAN_POINTS_PER_TERRITORY_WIN;
+    public static long CLAN_POINTS_PER_RAID_KILL;
+    public static int CLAN_DIVISION_BIGWAR_THRESHOLD;
+    public static int CLAN_DIVISION_MIDWAR_THRESHOLD;
+    public static int CLAN_MAX_WAREHOUSE_SLOTS;
+    public static int CLAN_MAX_PRIVATE_WAREHOUSE_SLOTS;
+
+    private static void loadClanConfig(ConfigReader config)
+    {
+        CLAN_MANAGEMENT_ENABLED = config.getBoolean("ClanManagementEnabled", true);
+        CLAN_POINTS_SYSTEM_ENABLED = config.getBoolean("ClanPointsSystemEnabled", true);
+        CLAN_POINTS_PER_PVP_KILL = config.getLong("ClanPointsPerPvPKill", 5);
+        CLAN_POINTS_PER_SIEGE_WIN = config.getLong("ClanPointsPerSiegeWin", 500);
+        CLAN_POINTS_PER_TERRITORY_WIN = config.getLong("ClanPointsPerTerritoryWin", 300);
+        CLAN_POINTS_PER_RAID_KILL = config.getLong("ClanPointsPerRaidKill", 50);
+        CLAN_DIVISION_BIGWAR_THRESHOLD = config.getInt("ClanDivisionBigwarThreshold", 10000);
+        CLAN_DIVISION_MIDWAR_THRESHOLD = config.getInt("ClanDivisionMidwarThreshold", 5000);
+        CLAN_MAX_WAREHOUSE_SLOTS = config.getInt("ClanMaxWarehouseSlots", 500);
+        CLAN_MAX_PRIVATE_WAREHOUSE_SLOTS = config.getInt("ClanMaxPrivateWarehouseSlots", 200);
+    }
