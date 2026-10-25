@@ -1,60 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
-    <!-- Scrolls -->
-    <item>
-        <ingredient count="300000" id="57" />
-        <production count="1" id="729" />
-    </item>
-    <item>
-        <ingredient count="300000" id="57" />
-        <production count="1" id="730" />
-    </item>
-    <item>
-        <ingredient count="200000" id="57" />
-        <production count="1" id="947" />
-    </item>
-    <item>
-        <ingredient count="200000" id="57" />
-        <production count="1" id="948" />
-    </item>
-    <item>
-        <ingredient count="200000" id="57" />
-        <production count="1" id="951" />
-    </item>
-    <item>
-        <ingredient count="200000" id="57" />
-        <production count="1" id="955" />
-    </item>
-    <item>
-        <ingredient count="400000" id="57" />
-        <production count="1" id="959" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="6569" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="6570" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="6571" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="6572" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="6573" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="6575" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="6577" />
-    </item>
+    <!-- Enchant Scrolls -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="729"/></item>   <!-- Enchant Weapon S -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="730"/></item>   <!-- Enchant Armor S -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="947"/></item>   <!-- Enchant Weapon B -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="948"/></item>   <!-- Enchant Armor B -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="951"/></item>   <!-- Enchant Weapon C -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="952"/></item>   <!-- Enchant Armor C -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="955"/></item>   <!-- Enchant Weapon D -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="956"/></item>   <!-- Enchant Armor D -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="959"/></item>  <!-- Enchant Weapon A -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="960"/></item>  <!-- Enchant Armor A -->
+    <!-- Blessed -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="6569"/></item>  <!-- Blessed Enchant Weapon S -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="6570"/></item>  <!-- Blessed Enchant Armor S -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="6571"/></item>  <!-- Blessed Enchant Weapon A -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="6572"/></item>  <!-- Blessed Enchant Armor A -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6573"/></item>  <!-- Blessed Enchant Weapon B -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6574"/></item>  <!-- Blessed Enchant Armor B -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6575"/></item>  <!-- Blessed Enchant Weapon C -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6576"/></item>  <!-- Blessed Enchant Armor C -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6577"/></item>  <!-- Blessed Enchant Weapon D -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="6578"/></item>  <!-- Blessed Enchant Armor D -->
+    <!-- Crystal -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="731"/></item>   <!-- Crystal Enchant Weapon S -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="732"/></item>   <!-- Crystal Enchant Armor S -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="949"/></item>   <!-- Crystal Enchant Weapon B -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="950"/></item>   <!-- Crystal Enchant Armor B -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="953"/></item>   <!-- Crystal Enchant Weapon C -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="954"/></item>   <!-- Crystal Enchant Armor C -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="957"/></item>   <!-- Crystal Enchant Weapon D -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="958"/></item>   <!-- Crystal Enchant Armor D -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="961"/></item>  <!-- Crystal Enchant Weapon A -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="962"/></item>  <!-- Crystal Enchant Armor A -->
+    <!-- Life Stones -->
+    <item><ingredient count="20000" id="57"/><production count="1" id="8723"/></item>  <!-- Mid-Grade Life Stone -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="8724"/></item>  <!-- High-Grade Life Stone -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="8725"/></item>  <!-- Top-Grade Life Stone -->
+    <item><ingredient count="20000" id="57"/><production count="1" id="8726"/></item>  <!-- Mid-Grade Life Stone (B) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="8727"/></item>  <!-- High-Grade Life Stone (B) -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="8728"/></item>  <!-- Top-Grade Life Stone (B) -->
+    <item><ingredient count="20000" id="57"/><production count="1" id="8729"/></item>  <!-- Mid-Grade Life Stone (A) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="8730"/></item>  <!-- High-Grade Life Stone (A) -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="8731"/></item>  <!-- Top-Grade Life Stone (A) -->
+    <item><ingredient count="20000" id="57"/><production count="1" id="8732"/></item>  <!-- Mid-Grade Life Stone (S) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="8733"/></item>  <!-- High-Grade Life Stone (S) -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="8734"/></item>  <!-- Top-Grade Life Stone (S) -->
 </list>

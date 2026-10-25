@@ -1,44 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
-    <!-- Weapons A-B -->
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="130" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="132" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="135" />
-    </item>
-    <item>
-        <ingredient count="600000" id="57" />
-        <production count="1" id="136" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="145" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="146" />
-    </item>
-    <item>
-        <ingredient count="1000000" id="57" />
-        <production count="1" id="147" />
-    </item>
-    <item>
-        <ingredient count="1500000" id="57" />
-        <production count="1" id="234" />
-    </item>
-    <item>
-        <ingredient count="1500000" id="57" />
-        <production count="1" id="235" />
-    </item>
-    <item>
-        <ingredient count="1500000" id="57" />
-        <production count="1" id="236" />
-    </item>
+    <!-- Weapons All Grades -->
+    <!-- C Grade -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="130"/></item>   <!-- Homunkulus's Sword -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="132"/></item>   <!-- Homunkulus's Blade -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="135"/></item>   <!-- Sword of Damascus -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="136"/></item>   <!-- Sword of Damascus (Blunt) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="258"/></item>   <!-- Bone Dagger -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="262"/></item>   <!-- Mithril Dagger -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="266"/></item>   <!-- Fire Dagger -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="290"/></item>   <!-- Samurai Longsword -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="294"/></item>   <!-- Scorpion -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="320"/></item>   <!-- Branch of the Mother Tree -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="324"/></item>   <!-- Branch of the Mother Tree (Blunt) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="356"/></item>   <!-- Bow of Peril -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="360"/></item>   <!-- Carnage Bow -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="380"/></item>   <!-- Axe of the Black Shadow -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="384"/></item>   <!-- Tallum Glaive -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="414"/></item>   <!-- Halberd -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="422"/></item>   <!-- Dasparion's Staff -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="426"/></item>   <!-- Staff of Evil Spirit -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="440"/></item>   <!-- Blood Tornado -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="444"/></item>   <!-- Demon Splinter -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="476"/></item>   <!-- Sword of Miracles -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="480"/></item>   <!-- Sword of Miracles (Blunt) -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="504"/></item>   <!-- Keshanberk -->
+    <item><ingredient count="50000" id="57"/><production count="1" id="508"/></item>   <!-- Keshanberk (Blunt) -->
+    <!-- B Grade -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="145"/></item>   <!-- Sword of Revolution -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="146"/></item>   <!-- Sword of Revolution (Blunt) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="274"/></item>   <!-- Blue Wolf Dagger -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="310"/></item>   <!-- Sword of Delusion -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="314"/></item>   <!-- Sword of Delusion (Blunt) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="340"/></item>   <!-- Dragon Grinder -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="368"/></item>   <!-- Bow of Peril (B) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="392"/></item>   <!-- Sword of Nightmare -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="396"/></item>   <!-- Sword of Nightmare (Blunt) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="432"/></item>   <!-- Soul Separator -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="456"/></item>   <!-- Soul Separator (Blunt) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="488"/></item>   <!-- Sword of Miracles (B) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="492"/></item>   <!-- Sword of Miracles (B) (Blunt) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="516"/></item>   <!-- Keshanberk (B) -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="520"/></item>   <!-- Keshanberk (B) (Blunt) -->
+    <!-- A Grade -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="234"/></item>   <!-- Sword of Altar -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="235"/></item>   <!-- Sword of Altar (Blunt) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="282"/></item>   <!-- Sword of Altar Dagger -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="332"/></item>   <!-- Sword of Altar (A) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="336"/></item>   <!-- Sword of Altar (A) (Blunt) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="376"/></item>   <!-- Bow of Peril (A) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="404"/></item>   <!-- Sword of Altar (A) Pole -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="448"/></item>   <!-- Soul Separator (A) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="472"/></item>   <!-- Sword of Miracles (A) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="473"/></item>   <!-- Sword of Miracles (A) (Blunt) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="528"/></item>   <!-- Keshanberk (A) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="532"/></item>   <!-- Keshanberk (A) (Blunt) -->
+    <!-- S Grade -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6351"/></item>  <!-- Dynasty Sword -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6352"/></item>  <!-- Dynasty Blade -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6353"/></item>  <!-- Dynasty Dagger -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6354"/></item>  <!-- Dynasty Sword (A) -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6355"/></item>  <!-- Dynasty Sword (A) (Blunt) -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6356"/></item>  <!-- Dynasty Bow -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6357"/></item>  <!-- Dynasty Pole -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6358"/></item>  <!-- Dynasty Staff -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6359"/></item>  <!-- Dynasty Duals -->
+    <item><ingredient count="1000000" id="57"/><production count="1" id="6360"/></item>  <!-- Dynasty Fist -->
 </list>

@@ -1,44 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
-    <!-- Quest/Clan consumables -->
-    <item>
-        <ingredient count="200000" id="57" />
-        <production count="1" id="1540" />
-    </item>
-    <item>
-        <ingredient count="100000" id="57" />
-        <production count="1" id="1539" />
-    </item>
-    <item>
-        <ingredient count="40000" id="57" />
-        <production count="1" id="1061" />
-    </item>
-    <item>
-        <ingredient count="40000" id="57" />
-        <production count="1" id="1060" />
-    </item>
-    <item>
-        <ingredient count="10000" id="57" />
-        <production count="1" id="728" />
-    </item>
-    <item>
-        <ingredient count="20000" id="57" />
-        <production count="1" id="2510" />
-    </item>
-    <item>
-        <ingredient count="20000" id="57" />
-        <production count="1" id="2511" />
-    </item>
-    <item>
-        <ingredient count="20000" id="57" />
-        <production count="1" id="2512" />
-    </item>
-    <item>
-        <ingredient count="20000" id="57" />
-        <production count="1" id="2513" />
-    </item>
-    <item>
-        <ingredient count="20000" id="57" />
-        <production count="1" id="2514" />
-    </item>
+    <!-- Consumables & Shots -->
+    <!-- HP/CP/MP Potions -->
+    <item><ingredient count="1000" id="57"/><production count="100" id="1540"/></item>  <!-- Greater CP Potion -->
+    <item><ingredient count="1000" id="57"/><production count="100" id="1539"/></item>  <!-- CP Potion -->
+    <item><ingredient count="500" id="57"/><production count="100" id="1061"/></item>  <!-- Greater Healing Potion -->
+    <item><ingredient count="500" id="57"/><production count="100" id="1060"/></item>  <!-- Healing Potion -->
+    <item><ingredient count="200" id="57"/><production count="100" id="728"/></item>   <!-- Mana Potion -->
+    <item><ingredient count="5000" id="57"/><production count="100" id="1374"/></item>  <!-- Elixir of CP -->
+    <item><ingredient count="5000" id="57"/><production count="100" id="1375"/></item>  <!-- Elixir of HP -->
+    <item><ingredient count="5000" id="57"/><production count="100" id="1376"/></item>  <!-- Elixir of MP -->
+    <!-- Scrolls -->
+    <item><ingredient count="5000" id="57"/><production count="10" id="2510"/></item>  <!-- Scroll of Escape -->
+    <item><ingredient count="5000" id="57"/><production count="10" id="2511"/></item>  <!-- Scroll of Resurrection -->
+    <item><ingredient count="10000" id="57"/><production count="1" id="2512"/></item>  <!-- Blessed Scroll of Resurrection -->
+    <item><ingredient count="5000" id="57"/><production count="10" id="2513"/></item>  <!-- Scroll of Summoning -->
+    <item><ingredient count="5000" id="57"/><production count="10" id="2514"/></item>  <!-- Scroll of Teleport -->
+    <item><ingredient count="10000" id="57"/><production count="1" id="2515"/></item>  <!-- Blessed Scroll of Teleport -->
+    <!-- Shots -->
+    <item><ingredient count="100" id="57"/><production count="1000" id="1463"/></item>  <!-- Soulshot D -->
+    <item><ingredient count="100" id="57"/><production count="1000" id="1464"/></item>  <!-- Spiritshot D -->
+    <item><ingredient count="200" id="57"/><production count="1000" id="1465"/></item>  <!-- Soulshot C -->
+    <item><ingredient count="200" id="57"/><production count="1000" id="1466"/></item>  <!-- Spiritshot C -->
+    <item><ingredient count="300" id="57"/><production count="1000" id="1467"/></item>  <!-- Soulshot B -->
+    <item><ingredient count="300" id="57"/><production count="1000" id="1468"/></item>  <!-- Spiritshot B -->
+    <item><ingredient count="500" id="57"/><production count="1000" id="1469"/></item>  <!-- Soulshot A -->
+    <item><ingredient count="500" id="57"/><production count="1000" id="1470"/></item>  <!-- Spiritshot A -->
+    <item><ingredient count="1000" id="57"/><production count="1000" id="1471"/></item>  <!-- Soulshot S -->
+    <item><ingredient count="1000" id="57"/><production count="1000" id="1472"/></item>  <!-- Spiritshot S -->
+    <item><ingredient count="2000" id="57"/><production count="1000" id="1835"/></item>  <!-- Blessed Spiritshot D -->
+    <item><ingredient count="3000" id="57"/><production count="1000" id="1836"/></item>  <!-- Blessed Spiritshot C -->
+    <item><ingredient count="5000" id="57"/><production count="1000" id="1837"/></item>  <!-- Blessed Spiritshot B -->
+    <item><ingredient count="8000" id="57"/><production count="1000" id="1838"/></item>  <!-- Blessed Spiritshot A -->
+    <item><ingredient count="15000" id="57"/><production count="1000" id="1839"/></item>  <!-- Blessed Spiritshot S -->
+    <!-- HP/MP/CP Regeneration -->
+    <item><ingredient count="5000" id="57"/><production count="100" id="5592"/></item>  <!-- Herb of Life -->
+    <item><ingredient count="10000" id="57"/><production count="100" id="5591"/></item>  <!-- Greater Herb of Life -->
+    <item><ingredient count="5000" id="57"/><production count="100" id="1062"/></item>  <!-- Herb of Mana -->
+    <item><ingredient count="10000" id="57"/><production count="100" id="1063"/></item>  <!-- Greater Herb of Mana -->
+    <!-- Event Items -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="6651"/></item>  <!-- Noblesse Stone -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6652"/></item>  <!-- Hero Weapon Box -->
+    <item><ingredient count="200000" id="57"/><production count="1" id="6388"/></item>  <!-- Eternal Diamond -->
+    <!-- Scrolls of Enchant (Bulk) -->
+    <item><ingredient count="500000" id="57"/><production count="10" id="729"/></item>   <!-- Enchant Weapon S x10 -->
+    <item><ingredient count="500000" id="57"/><production count="10" id="730"/></item>   <!-- Enchant Armor S x10 -->
+    <item><ingredient count="300000" id="57"/><production count="10" id="947"/></item>   <!-- Enchant Weapon B x10 -->
+    <item><ingredient count="300000" id="57"/><production count="10" id="948"/></item>   <!-- Enchant Armor B x10 -->
+    <item><ingredient count="300000" id="57"/><production count="10" id="951"/></item>   <!-- Enchant Weapon C x10 -->
+    <item><ingredient count="300000" id="57"/><production count="10" id="952"/></item>   <!-- Enchant Armor C x10 -->
+    <item><ingredient count="1000000" id="57"/><production count="10" id="959"/></item>  <!-- Enchant Weapon A x10 -->
+    <item><ingredient count="1000000" id="57"/><production count="10" id="960"/></item>  <!-- Enchant Armor A x10 -->
 </list>

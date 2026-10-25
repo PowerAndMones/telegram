@@ -190,8 +190,7 @@ public class HomeBoard implements IParseBoardHandler
 		else if (command.startsWith("_bbsteleport"))
 		{
 			final String teleBuypass = command.replace("_bbsteleport;", "");
-			final int teleportPrice = player.getLevel() <= CommunityBoardConfig.COMMUNITYBOARD_FREE_TELEPORT_MAX_LEVEL ? 0 : CommunityBoardConfig.COMMUNITYBOARD_TELEPORT_PRICE;
-			if (player.getInventory().getInventoryItemCount(CommunityBoardConfig.COMMUNITYBOARD_CURRENCY, -1) < teleportPrice)
+			if (player.getInventory().getInventoryItemCount(CommunityBoardConfig.COMMUNITYBOARD_CURRENCY, -1) < CommunityBoardConfig.COMMUNITYBOARD_TELEPORT_PRICE)
 			{
 				player.sendMessage("Not enough currency!");
 			}
@@ -199,7 +198,7 @@ public class HomeBoard implements IParseBoardHandler
 			{
 				player.disableAllSkills();
 				player.sendPacket(new ShowBoard());
-				player.destroyItemByItemId(ItemProcessType.FEE, CommunityBoardConfig.COMMUNITYBOARD_CURRENCY, teleportPrice, player, true);
+				player.destroyItemByItemId(ItemProcessType.FEE, CommunityBoardConfig.COMMUNITYBOARD_CURRENCY, CommunityBoardConfig.COMMUNITYBOARD_TELEPORT_PRICE, player, true);
 				player.setIn7sDungeon(false);
 				player.setInstanceId(0);
 				player.teleToLocation(CommunityBoardConfig.COMMUNITY_AVAILABLE_TELEPORTS.get(teleBuypass), 0);

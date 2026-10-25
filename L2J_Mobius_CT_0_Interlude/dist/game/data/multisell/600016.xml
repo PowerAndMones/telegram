@@ -1,40 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
-    <!-- Armors A -->
-    <item>
-        <ingredient count="800000" id="57" />
-        <production count="1" id="75" />
-    </item>
-    <item>
-        <ingredient count="800000" id="57" />
-        <production count="1" id="76" />
-    </item>
-    <item>
-        <ingredient count="800000" id="57" />
-        <production count="1" id="77" />
-    </item>
-    <item>
-        <ingredient count="1200000" id="57" />
-        <production count="1" id="84" />
-    </item>
-    <item>
-        <ingredient count="1200000" id="57" />
-        <production count="1" id="85" />
-    </item>
-    <item>
-        <ingredient count="1200000" id="57" />
-        <production count="1" id="86" />
-    </item>
-    <item>
-        <ingredient count="1600000" id="57" />
-        <production count="1" id="91" />
-    </item>
-    <item>
-        <ingredient count="1600000" id="57" />
-        <production count="1" id="92" />
-    </item>
-    <item>
-        <ingredient count="1600000" id="57" />
-        <production count="1" id="93" />
-    </item>
+    <!-- Armor All Grades -->
+    <!-- C Grade Heavy -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="75"/></item>    <!-- Dark Crystal Heavy Helmet -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="76"/></item>    <!-- Dark Crystal Heavy Armor -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="77"/></item>    <!-- Dark Crystal Heavy Gaiters -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="78"/></item>    <!-- Dark Crystal Heavy Shield -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="79"/></item>    <!-- Dark Crystal Heavy Boots -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="80"/></item>    <!-- Dark Crystal Heavy Gloves -->
+    <!-- C Grade Light -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="84"/></item>    <!-- Dark Crystal Light Helmet -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="85"/></item>    <!-- Dark Crystal Light Armor -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="86"/></item>    <!-- Dark Crystal Light Gaiters -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="87"/></item>    <!-- Dark Crystal Light Shield -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="88"/></item>    <!-- Dark Crystal Light Boots -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="89"/></item>    <!-- Dark Crystal Light Gloves -->
+    <!-- C Grade Robe -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="91"/></item>    <!-- Dark Crystal Robe Helmet -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="92"/></item>    <!-- Dark Crystal Robe Armor -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="93"/></item>    <!-- Dark Crystal Robe Gaiters -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="94"/></item>    <!-- Dark Crystal Robe Shield -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="95"/></item>    <!-- Dark Crystal Robe Boots -->
+    <item><ingredient count="30000" id="57"/><production count="1" id="96"/></item>    <!-- Dark Crystal Robe Gloves -->
+    <!-- B Grade Heavy -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="236"/></item>   <!-- Tallum Heavy Helmet -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="237"/></item>   <!-- Tallum Heavy Armor -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="238"/></item>   <!-- Tallum Heavy Gaiters -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="239"/></item>   <!-- Tallum Heavy Shield -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="240"/></item>   <!-- Tallum Heavy Boots -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="241"/></item>   <!-- Tallum Heavy Gloves -->
+    <!-- B Grade Light -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="244"/></item>   <!-- Tallum Light Helmet -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="245"/></item>   <!-- Tallum Light Armor -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="246"/></item>   <!-- Tallum Light Gaiters -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="247"/></item>   <!-- Tallum Light Shield -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="248"/></item>   <!-- Tallum Light Boots -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="249"/></item>   <!-- Tallum Light Gloves -->
+    <!-- B Grade Robe -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="252"/></item>   <!-- Tallum Robe Helmet -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="253"/></item>   <!-- Tallum Robe Armor -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="254"/></item>   <!-- Tallum Robe Gaiters -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="255"/></item>   <!-- Tallum Robe Shield -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="256"/></item>   <!-- Tallum Robe Boots -->
+    <item><ingredient count="100000" id="57"/><production count="1" id="257"/></item>   <!-- Tallum Robe Gloves -->
+    <!-- A Grade Heavy -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="260"/></item>   <!-- Nightmare Heavy Helmet -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="261"/></item>   <!-- Nightmare Heavy Armor -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="262"/></item>   <!-- Nightmare Heavy Gaiters -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="263"/></item>   <!-- Nightmare Heavy Shield -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="264"/></item>   <!-- Nightmare Heavy Boots -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="265"/></item>   <!-- Nightmare Heavy Gloves -->
+    <!-- A Grade Light -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="268"/></item>   <!-- Nightmare Light Helmet -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="269"/></item>   <!-- Nightmare Light Armor -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="270"/></item>   <!-- Nightmare Light Gaiters -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="271"/></item>   <!-- Nightmare Light Shield -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="272"/></item>   <!-- Nightmare Light Boots -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="273"/></item>   <!-- Nightmare Light Gloves -->
+    <!-- A Grade Robe -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="276"/></item>   <!-- Nightmare Robe Helmet -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="277"/></item>   <!-- Nightmare Robe Armor -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="278"/></item>   <!-- Nightmare Robe Gaiters -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="279"/></item>   <!-- Nightmare Robe Shield -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="280"/></item>   <!-- Nightmare Robe Boots -->
+    <item><ingredient count="300000" id="57"/><production count="1" id="281"/></item>   <!-- Nightmare Robe Gloves -->
+    <!-- S Grade (Dynasty) -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6361"/></item>  <!-- Dynasty Heavy Helmet -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6362"/></item>  <!-- Dynasty Heavy Armor -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6363"/></item>  <!-- Dynasty Heavy Gaiters -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6364"/></item>  <!-- Dynasty Heavy Shield -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6365"/></item>  <!-- Dynasty Heavy Boots -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6366"/></item>  <!-- Dynasty Heavy Gloves -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6367"/></item>  <!-- Dynasty Light Helmet -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6368"/></item>  <!-- Dynasty Light Armor -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6369"/></item>  <!-- Dynasty Light Gaiters -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6370"/></item>  <!-- Dynasty Light Shield -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6371"/></item>  <!-- Dynasty Light Boots -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6372"/></item>  <!-- Dynasty Light Gloves -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6373"/></item>  <!-- Dynasty Robe Helmet -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6374"/></item>  <!-- Dynasty Robe Armor -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6375"/></item>  <!-- Dynasty Robe Gaiters -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6376"/></item>  <!-- Dynasty Robe Shield -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6377"/></item>  <!-- Dynasty Robe Boots -->
+    <item><ingredient count="500000" id="57"/><production count="1" id="6378"/></item>  <!-- Dynasty Robe Gloves -->
 </list>
