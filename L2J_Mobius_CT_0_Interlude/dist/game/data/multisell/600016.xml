@@ -2,39 +2,39 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
     <!-- Armors A -->
     <item>
-        <ingredient count="400000" id="57" />
+        <ingredient count="800000" id="57" />
         <production count="1" id="75" />
     </item>
     <item>
-        <ingredient count="400000" id="57" />
+        <ingredient count="800000" id="57" />
         <production count="1" id="76" />
     </item>
     <item>
-        <ingredient count="400000" id="57" />
+        <ingredient count="800000" id="57" />
         <production count="1" id="77" />
     </item>
     <item>
-        <ingredient count="600000" id="57" />
+        <ingredient count="1200000" id="57" />
         <production count="1" id="84" />
     </item>
     <item>
-        <ingredient count="600000" id="57" />
+        <ingredient count="1200000" id="57" />
         <production count="1" id="85" />
     </item>
     <item>
-        <ingredient count="600000" id="57" />
+        <ingredient count="1200000" id="57" />
         <production count="1" id="86" />
     </item>
     <item>
-        <ingredient count="800000" id="57" />
+        <ingredient count="1600000" id="57" />
         <production count="1" id="91" />
     </item>
     <item>
-        <ingredient count="800000" id="57" />
+        <ingredient count="1600000" id="57" />
         <production count="1" id="92" />
     </item>
     <item>
-        <ingredient count="800000" id="57" />
+        <ingredient count="1600000" id="57" />
         <production count="1" id="93" />
     </item>
 </list>

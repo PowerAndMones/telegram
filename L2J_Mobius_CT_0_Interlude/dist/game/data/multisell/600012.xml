@@ -2,59 +2,59 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
     <!-- Scrolls -->
     <item>
-        <ingredient count="150000" id="57" />
+        <ingredient count="300000" id="57" />
         <production count="1" id="729" />
     </item>
     <item>
-        <ingredient count="150000" id="57" />
+        <ingredient count="300000" id="57" />
         <production count="1" id="730" />
     </item>
     <item>
-        <ingredient count="100000" id="57" />
+        <ingredient count="200000" id="57" />
         <production count="1" id="947" />
     </item>
     <item>
-        <ingredient count="100000" id="57" />
+        <ingredient count="200000" id="57" />
         <production count="1" id="948" />
     </item>
     <item>
-        <ingredient count="100000" id="57" />
+        <ingredient count="200000" id="57" />
         <production count="1" id="951" />
     </item>
     <item>
-        <ingredient count="100000" id="57" />
+        <ingredient count="200000" id="57" />
         <production count="1" id="955" />
     </item>
     <item>
-        <ingredient count="200000" id="57" />
+        <ingredient count="400000" id="57" />
         <production count="1" id="959" />
     </item>
     <item>
-        <ingredient count="500000" id="57" />
+        <ingredient count="1000000" id="57" />
         <production count="1" id="6569" />
     </item>
     <item>
-        <ingredient count="500000" id="57" />
+        <ingredient count="1000000" id="57" />
         <production count="1" id="6570" />
     </item>
     <item>
-        <ingredient count="300000" id="57" />
+        <ingredient count="600000" id="57" />
         <production count="1" id="6571" />
     </item>
     <item>
-        <ingredient count="300000" id="57" />
+        <ingredient count="600000" id="57" />
         <production count="1" id="6572" />
     </item>
     <item>
-        <ingredient count="300000" id="57" />
+        <ingredient count="600000" id="57" />
         <production count="1" id="6573" />
     </item>
     <item>
-        <ingredient count="300000" id="57" />
+        <ingredient count="600000" id="57" />
         <production count="1" id="6575" />
     </item>
     <item>
-        <ingredient count="500000" id="57" />
+        <ingredient count="1000000" id="57" />
         <production count="1" id="6577" />
     </item>
 </list>
