@@ -291,6 +291,13 @@ public class GameServer
 		GrandBossManager.getInstance().initZones();
 		EventDropManager.getInstance();
 		
+
+		printSection("Custom Managers");
+		EventEngine.getInstance();
+		DailyRewardManager.getInstance();
+		VoteRewardManager.getInstance();
+		ChampionMonsterManager.getInstance();
+
 		printSection("Olympiad");
 		Olympiad.getInstance();
 		Hero.getInstance();
